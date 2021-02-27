@@ -8,6 +8,7 @@ This is self-driven project to practice some data analysis with the hope of find
 
 ## Possible Aims: 
 
+* Genetics of the herd
 * Number of visits vs stage of lactation vs yield (previous years)
 * Number of visits vs bulling
 * Yield vs conc and time of year 
