@@ -18,4 +18,7 @@ This is self-driven project to practice some data analysis with the hope of find
 
 * **README.md**
   * Classic readme file for this project
-* **Headings.R**
+* **loading_merlin_data.R**
+  * All the column headings for different sheets from the software
+* **genetics.R**
+  * Investigating the genetics of the cows
