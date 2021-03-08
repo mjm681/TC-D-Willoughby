@@ -6,6 +6,7 @@ Most of the data involves milkings, but some concerns cattle hereditary informat
 
 This is self-driven project to practice some data analysis with the hope of finding out some interesting, and possibly useful things for the business. 
 
+
 ## Possible Aims: 
 
 * Genetics of the herd
@@ -13,6 +14,7 @@ This is self-driven project to practice some data analysis with the hope of find
 * Number of visits vs bulling
 * Yield vs conc and time of year 
 * Yield vs conc vs milk price vs profit
+
 
 ## Files contained in this repository:
 
@@ -22,3 +24,20 @@ This is self-driven project to practice some data analysis with the hope of find
   * All the column headings for different sheets from the software
 * **genetics.R**
   * Investigating the genetics of the cows
+
+
+## Background on the Farm
+* Fully organic
+* ~180 cattle
+  * 140 milkcows
+* Part of OMSCO Milk Group
+* Executive producer for Bumpkin Dairy co.
+
+## Background on the Robot and Software
+
+### FullWood Robot
+
+
+### FullWood Herd Management Software
+
+### Merlin Lactation Software
