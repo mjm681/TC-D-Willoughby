@@ -26,17 +26,19 @@ This is self-driven project to practice some data analysis with the hope of find
   * Investigating the genetics of the cows
 
 
-## Background on the Farm
+## Background
+
+### Background on the Farm
 * Fully organic
 * ~180 cattle
   * 140 milkcows
 * Part of OMSCO Milk Group
 * Executive producer for Bumpkin Dairy co.
 
-## Background on the Data Collection Tools from [Fullwood Packo](https://fullwoodpacko.com/)
+### Background on the Data Collection Tools from [Fullwood Packo](https://fullwoodpacko.com/)
 
-### [M<sup>2</sup>erlin Robotic Milking](https://fullwoodpacko.com/solutions/robotic-milking/merlin/)
+#### [M<sup>2</sup>erlin Robotic Milking](https://fullwoodpacko.com/solutions/robotic-milking/merlin/)
 
-### [FullWood Herd Management Software](https://fullwoodpacko.com/solutions/herd-management/supervise-your-milking/)
+#### [FullWood Herd Management Software](https://fullwoodpacko.com/solutions/herd-management/supervise-your-milking/)
 
-### Merlin Lactation Software
+#### Merlin Lactation Software
