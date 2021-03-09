@@ -1,4 +1,5 @@
 ##### Lactation Data #####
+setwd("~/TC-D-Willoughby")
 
 colnames_3a08 <- c("Animal number", "Animal name", "Lactation",
                    "Lactation days in milk", "Lactation production",
@@ -12,10 +13,10 @@ colnames_3b06 <- c("Animal number", "Animal name", "Lactation",
                    "Lactation fat", "Lactation protein", 
                    "Lactation cellcount")
 
-a_lactation_data <- read.csv("3a08_lactation_milk_data.txt", header = F, 
+a_lactation_data <- read.csv("Report/3a08_lactation_milk_data.txt", header = F, 
                              skip = 1, na.strings = '-', col.names = colnames_3a08)
 
-b_lactation_data <- read.csv("3b06_lactation_milk_data.txt", header = F, 
+b_lactation_data <- read.csv("Report/3b06_lactation_milk_data.txt", header = F, 
                              skip = 1, na.strings = '-', col.names = colnames_3b06)
 
 all.equal(a_lactation_data, b_lactation_data)

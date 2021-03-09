@@ -1,0 +1,60 @@
+3a07. Cows with highest milk production 16/12/2020 15:25:14
+240,01 - robot,5,19,36.8,38.7,3.3,Calved
+532,01 - robot,2,31,20.9,20.1,2.5,Calved
+254,01 - robot,4,31,32.2,32.3,3.2,Calved
+281,01 - robot,5,91,30.5,30.8,3.2,Calved
+259,01 - robot,5,21,22.1,23.4,2.1,Calved
+557,01 - robot,1,87,13.1,17.5,1.6,Calved
+535,01 - robot,2,90,23.5,26.0,2.2,Calved
+539,01 - robot,2,58,28.5,27.9,3.4,Calved
+296,01 - robot,4,11,-,12.2,-,Calved
+402,01 - robot,3,87,27.8,24.8,2.6,Calved
+348,01 - robot,3,62,34.3,32.7,2.6,Calved
+358,01 - robot,3,267,19.1,15.7,2.9,Calved
+497,01 - robot,2,82,20.9,21.6,3.0,Calved
+503,01 - robot,1,80,-,-,-,Calved
+307,01 - robot,4,71,28.7,27.7,4.0,Calved
+83,01 - robot,13,149,14.7,14.8,3.2,Calved
+948,01 - robot,8,14,-,-,-,Calved
+971,01 - robot,8,23,20.3,17.8,3.2,Calved
+952,01 - robot,7,53,29.3,24.7,3.5,Calved
+600,01 - robot,1,87,-,-,-,Calved
+319,01 - robot,4,178,20.0,15.5,2.3,Service
+493,01 - robot,2,151,22.4,21.3,2.5,Service
+53,01 - robot,6,194,18.9,19.1,2.3,Service
+353,01 - robot,4,31,24.9,24.8,2.5,Service
+968,01 - robot,7,250,15.8,15.6,1.9,Service
+337,01 - robot,4,68,40.0,38.6,3.3,Service
+26,01 - robot,6,278,25.2,24.8,2.3,Service
+447,01 - robot,4,51,31.2,31.4,3.5,Service
+278,01 - robot,5,81,25.7,27.1,3.5,Service
+524,01 - robot,2,105,21.0,15.6,2.9,Service
+63,01 - robot,7,90,21.9,21.2,2.9,Service
+56,01 - robot,6,211,13.8,12.3,1.7,Pregn. diag. neg.
+584,01 - robot,1,283,16.9,15.4,1.7,Pregn. diag. pos.
+383,01 - robot,3,263,18.8,17.7,2.4,Pregn. diag. pos.
+390,01 - robot,3,244,18.1,17.1,3.0,Pregn. diag. pos.
+386,01 - robot,3,238,17.4,14.8,3.2,Pregn. diag. pos.
+504,01 - robot,2,184,16.4,15.9,2.2,Pregn. diag. pos.
+511,01 - robot,2,240,11.2,11.2,2.3,Pregn. diag. pos.
+468,01 - robot,2,220,19.1,17.8,2.6,Pregn. diag. pos.
+487,01 - robot,2,245,23.1,20.4,2.4,Pregn. diag. pos.
+479,01 - robot,2,222,20.6,19.0,2.5,Pregn. diag. pos.
+443,01 - robot,2,186,20.4,20.3,2.8,Pregn. diag. pos.
+531,01 - robot,2,177,12.3,11.0,3.3,Pregn. diag. pos.
+523,01 - robot,2,197,24.4,24.0,2.4,Pregn. diag. pos.
+516,01 - robot,2,212,22.7,22.5,2.2,Pregn. diag. pos.
+519,01 - robot,2,165,28.5,27.3,2.7,Pregn. diag. pos.
+370,01 - robot,3,227,20.9,21.5,2.8,Pregn. diag. pos.
+297,01 - robot,4,223,12.8,11.8,1.9,Pregn. diag. pos.
+208,01 - robot,5,165,-,-,-,Pregn. diag. pos.
+312,01 - robot,4,259,17.4,15.2,2.9,Pregn. diag. pos.
+311,01 - robot,4,256,10.4,7.8,2.2,Pregn. diag. pos.
+300,01 - robot,4,253,13.0,11.0,1.9,Pregn. diag. pos.
+166,01 - robot,5,250,24.0,21.0,2.8,Pregn. diag. pos.
+177,01 - robot,5,233,13.5,13.7,2.0,Pregn. diag. pos.
+169,01 - robot,5,269,42.8,41.2,3.3,Pregn. diag. pos.
+347,01 - robot,3,251,13.1,13.3,2.3,Pregn. diag. pos.
+355,01 - robot,3,237,19.0,16.9,2.7,Pregn. diag. pos.
+356,01 - robot,3,247,23.7,22.1,3.0,Pregn. diag. pos.
+350,01 - robot,4,180,20.2,18.6,3.0,Pregn. diag. pos.

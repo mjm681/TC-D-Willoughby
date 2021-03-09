@@ -1,4 +1,4 @@
-setwd("~/TC+D Willoughby")
+setwd("~/TC-D-Willoughby")
 
 colnames_101 <- c("Animal type", "Gender","Animal number", "Animal name", "I&R number",
                   "Birth date", "Group number", "Location number", 
@@ -8,8 +8,8 @@ colnames_102 <- c("Animal number", "Tag number", "Animal name", "I&R number",
                   "Birth date", "Group number","Dam I&R number",
                   "Sire I&R number")
 
-all_animals_df <- read.csv("101_all_animals.txt", header = F, skip = 1, na.strings = '-')
-all_milkcows_df <- read.csv("102_all_milkcows.txt", header = F, skip = 1, na.strings = '-')
+all_animals_df <- read.csv("Report/101_all_animals.txt", header = F, skip = 1, na.strings = '-')
+all_milkcows_df <- read.csv("Report/102_all_milkcows.txt", header = F, skip = 1, na.strings = '-')
 
 colnames(all_animals_df) <- colnames_101
 colnames(all_milkcows_df) <- colnames_102

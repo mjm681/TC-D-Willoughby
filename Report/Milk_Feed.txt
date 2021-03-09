@@ -1,0 +1,33 @@
+Milk feed data 16/12/2020 17:07:58
+968,01 - robot,250,1.9,15.6,15.8,-1.1,KgM+ curve,4400,Yes,M+ 12 plus extra kg of cake,4400,Fresh Calved,-,Merlin feed,12,100,0,No,1.00,0.66,5.30,3.0,0,4
+208,01 - robot,165,-,-,-,-,KgM+ curve,3000,Yes,M+ 12 plus extra kg of cake,3000,Fresh Calved,-,Merlin feed,12,-,-,Yes,1.00,-,8.00,3.0,0,4
+300,01 - robot,253,1.9,11.0,13.0,-14.9,KgM+ curve,4100,Yes,M+ 12 plus extra kg of cake,4100,Fresh Calved,-,Merlin feed,14,100,0,No,1.00,0.54,4.20,3.1,0,4
+177,01 - robot,233,2.0,13.7,13.5,1.2,KgM+ curve,4200,Yes,M+ 12 plus extra kg of cake,4200,Fresh Calved,-,Merlin feed,9,100,0,No,1.00,0.56,4.20,3.2,0,4
+355,01 - robot,237,2.7,16.9,19.0,-10.9,KgM+ curve,4700,Yes,M+ 12 plus extra kg of cake,4700,Fresh Calved,-,Merlin feed,12,100,0,No,1.00,0.79,5.90,3.2,0,4
+358,01 - robot,267,2.8,15.7,19.1,-17.8,KgM+ curve,4700,Yes,M+ 12 plus extra kg of cake,4700,Fresh Calved,-,Merlin feed,12,97,3,No,1.00,0.80,5.90,3.2,0,4
+311,01 - robot,256,2.2,7.8,10.4,-25.2,KgM+ curve,3900,Yes,M+ 12 plus extra kg of cake,3900,Fresh Calved,-,Merlin feed,14,100,0,No,1.00,0.43,3.20,3.2,0,4
+312,01 - robot,259,3.0,15.7,17.5,-10.5,KgM+ curve,4600,Yes,M+ 12 plus extra kg of cake,4600,Fresh Calved,-,Merlin feed,14,100,0,No,1.00,0.73,5.30,3.3,0,4
+319,01 - robot,178,2.3,15.5,20.0,-22.5,KgM+ curve,4900,Yes,M+ 12 plus extra kg of cake,4800,Fresh Calved,-,Merlin feed,10,96,4,No,1.00,0.83,5.90,3.4,0,4
+350,01 - robot,180,3.0,18.6,20.2,-7.9,KgM+ curve,4900,Yes,M+ 12 plus extra kg of cake,4800,Fresh Calved,-,Merlin feed,12,100,0,No,1.00,0.84,5.90,3.4,0,4
+443,01 - robot,186,2.8,20.3,20.4,-0.9,KgM+ curve,8000,No,M+ 12 plus extra kg of cake,7800,Fresh Calved,-,Merlin feed,10,100,0,No,1.00,0.85,5.90,3.5,0,4
+479,01 - robot,222,2.4,19.0,20.6,-8.0,KgM+ curve,8000,No,M+ 12 plus extra kg of cake,7800,Fresh Calved,-,Merlin feed,12,100,0,No,1.00,0.86,5.90,3.5,0,4
+370,01 - robot,227,2.8,21.5,20.9,2.9,KgM+ curve,5100,Yes,M+ 12 plus extra kg of cake,5000,Fresh Calved,-,Merlin feed,12,93,7,No,1.00,0.87,5.90,3.5,0,4
+383,01 - robot,263,2.4,17.7,18.8,-5.9,KgM+ curve,4700,Yes,M+ 12 plus extra kg of cake,4700,Fresh Calved,-,Merlin feed,10,100,0,No,1.00,0.78,5.30,3.5,0,4
+516,01 - robot,212,2.2,22.5,22.7,-1.0,KgM+ curve,8000,No,M+ 12 plus extra kg of cake,7800,Fresh Calved,-,Merlin feed,12,100,0,No,1.00,0.95,6.40,3.5,0,4
+53,01 - robot,194,2.3,19.1,18.9,1.4,KgM+ curve,4700,Yes,M+ 12 plus extra kg of cake,4700,Fresh Calved,-,Merlin feed,14,100,0,No,1.00,0.79,5.30,3.6,0,4
+487,01 - robot,245,2.4,20.4,23.1,-11.6,KgM+ curve,5400,Yes,M+ 12 plus extra kg of cake,5600,Fresh Calved,-,Merlin feed,8,92,8,No,1.00,0.96,6.40,3.6,0,4
+356,01 - robot,247,3.0,22.1,23.7,-6.8,KgM+ curve,5700,Yes,M+ 12 plus extra kg of cake,5700,Fresh Calved,-,Merlin feed,10,88,12,No,1.00,0.99,6.40,3.7,0,4
+26,01 - robot,278,2.3,24.8,25.2,-1.6,KgM+ curve,6100,Yes,M+ 12 plus extra kg of cake,6100,Fresh Calved,-,Merlin feed,14,100,0,No,1.00,1.05,6.80,3.7,0,4
+166,01 - robot,250,2.9,24.8,24.0,3.4,KgM+ curve,5900,Yes,M+ 12 plus extra kg of cake,5800,Fresh Calved,-,Merlin feed,14,97,3,No,1.00,1.00,6.40,3.8,0,4
+584,01 - robot,283,1.7,15.4,16.9,-8.7,KgM+ curve,8000,No,HEIFER 12,7800,Fresh Calved,-,Merlin feed,12,100,0,Yes,1.00,0.70,6.00,4.0,0,1
+531,01 - robot,177,3.2,11.0,12.3,-10.6,KgM+ curve,4000,Yes,M+ 12 plus extra kg of cake,4000,Fresh Calved,-,Merlin feed,12,82,18,Yes,1.00,0.51,6.00,4.0,0,4
+56,01 - robot,211,1.7,12.3,13.8,-10.9,KgM+ curve,4200,Yes,M+ 12 plus extra kg of cake,4200,Fresh Calved,-,Merlin feed,9,85,15,Yes,1.00,0.58,6.00,4.0,0,4
+347,01 - robot,251,2.3,13.3,13.1,1.4,KgM+ curve,4100,Yes,M+ 12 plus extra kg of cake,4100,Fresh Calved,-,Merlin feed,10,92,8,Yes,1.00,0.55,6.00,4.0,0,4
+348,01 - robot,62,2.6,32.7,34.3,-4.4,KgM+ curve,8600,Yes,M+ 12 plus extra kg of cake,8400,Fresh Calved,-,Merlin feed,14,100,0,Yes,1.00,1.43,6.00,4.0,0,2
+511,01 - robot,240,2.3,11.2,11.2,0.4,KgM+ curve,7400,No,M+ 12 plus extra kg of cake,7200,Fresh Calved,-,Merlin feed,10,52,48,Yes,1.00,0.46,6.00,4.0,0,4
+468,01 - robot,220,2.5,17.8,19.1,-6.7,KgM+ curve,8000,No,M+ 12 plus extra kg of cake,7800,Fresh Calved,-,Merlin feed,10,100,0,Yes,1.00,0.80,6.00,4.0,0,4
+390,01 - robot,244,3.0,17.1,18.1,-5.5,KgM+ curve,4600,Yes,M+ 12 plus extra kg of cake,4600,Fresh Calved,-,Merlin feed,10,83,17,Yes,1.00,0.75,6.00,4.0,0,4
+386,01 - robot,238,3.1,14.8,17.4,-15.1,KgM+ curve,4600,Yes,M+ 12 plus extra kg of cake,4500,Fresh Calved,-,Merlin feed,12,94,6,Yes,1.00,0.73,6.00,4.0,0,4
+297,01 - robot,223,1.9,11.8,12.8,-8.0,KgM+ curve,4100,Yes,M+ 12 plus extra kg of cake,4100,Fresh Calved,-,Merlin feed,14,100,0,Yes,1.00,0.53,6.00,4.0,0,4
+519,01 - robot,165,2.8,27.2,28.7,-5.3,KgM+ curve,6900,Yes,M+ 12 plus extra kg of cake,7000,Fresh Calved,-,Merlin feed,10,100,0,No,1.00,1.19,7.00,4.1,0,4
+169,01 - robot,269,3.3,41.2,42.8,-3.6,KgM+ curve,10700,Yes,M+ 12 plus extra kg of cake,10500,Fresh Calved,-,Merlin feed,14,100,0,No,1.00,1.78,9.00,4.8,0,4

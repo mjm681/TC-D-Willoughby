@@ -1,0 +1,144 @@
+3a09. Overview milk settings per cow 16/12/2020 15:29:15
+4,-,-,No,-,-,-,80,10,Irregular
+8,945,-,No,-,-,-,80,10,Irregular
+18,-,-,No,-,-,-,80,10,1 time/day
+23,-,-,No,-,-,-,80,10,Irregular
+26,9944,25.2,Yes,-,-,-,80,10,Irregular
+43,12,-,No,-,-,-,80,10,Irregular
+53,57,18.9,Yes,-,-,-,80,10,Irregular
+56,40,13.8,Yes,-,-,-,80,10,Irregular
+57,43,-,Yes,-,-,-,80,10,Irregular
+60,21,-,Yes,-,-,-,80,10,Irregular
+63,9918,21.9,Yes,-,-,-,80,10,Irregular
+71,9904,-,No,-,-,-,80,10,Irregular
+73,-,-,No,-,-,-,80,10,Irregular
+83,98,14.7,Yes,-,-,-,80,10,Irregular
+90,9940,-,No,-,-,-,80,10,Irregular
+91,27,-,Yes,-,-,-,80,10,1 time/day
+92,-,-,No,-,-,-,80,10,Irregular
+95,-,-,No,-,-,-,80,10,1 time/day
+109,-,-,No,-,-,-,80,10,Irregular
+163,65,-,No,-,-,-,80,10,Irregular
+166,9928,24.0,Yes,-,-,-,80,10,Irregular
+167,-,-,No,-,-,-,80,10,Irregular
+169,67,42.8,Yes,-,-,-,80,10,Irregular
+170,2,-,No,-,-,-,80,10,Irregular
+177,34,13.5,Yes,-,-,-,80,10,Irregular
+182,996,-,No,-,-,-,80,10,Irregular
+185,-,-,No,-,-,-,80,10,Irregular
+187,88,-,No,-,-,-,80,10,Irregular
+190,-,-,No,-,-,-,80,10,Irregular
+195,10,-,No,-,-,-,80,10,Irregular
+202,3,-,No,-,-,-,80,10,Irregular
+208,103,-,Yes,-,-,-,80,10,Irregular
+211,20,-,No,-,-,-,80,10,Irregular
+240,69,36.8,Yes,-,-,-,80,10,Irregular
+254,55,32.2,Yes,-,-,-,80,10,Irregular
+259,9943,22.1,Yes,-,-,-,80,10,Irregular
+278,53,25.7,Yes,-,-,-,80,10,Irregular
+279,-,-,No,-,-,-,80,10,Irregular
+281,9927,30.5,Yes,-,-,-,80,10,Irregular
+291,125,-,No,-,-,-,80,10,Irregular
+295,-,-,No,-,-,-,80,10,1 time/day
+296,22,-,Yes,-,-,-,80,10,Irregular
+297,15,12.8,Yes,-,-,-,80,10,Irregular
+300,31,13.0,Yes,-,-,-,80,10,Irregular
+307,19,28.7,Yes,-,-,-,80,10,Irregular
+308,-,-,No,-,-,-,80,10,1 time/day
+311,52,10.4,Yes,-,-,-,80,10,Irregular
+312,29,17.4,Yes,-,-,-,80,10,Irregular
+317,38,-,No,-,-,-,80,10,Irregular
+319,17,20.0,Yes,-,-,-,80,10,Irregular
+328,-,-,No,-,-,-,80,10,Irregular
+330,-,-,No,-,-,-,80,10,Irregular
+332,-,-,No,-,-,-,80,10,1 time/day
+337,965,40.0,Yes,-,-,-,80,10,Irregular
+344,-,-,No,-,-,-,80,10,Irregular
+345,6,-,No,-,-,-,80,10,Irregular
+346,9911,-,No,-,-,-,80,10,1 time/day
+347,26,13.1,Yes,-,-,-,80,10,Irregular
+348,64,34.3,Yes,-,-,-,80,10,Irregular
+350,123,20.2,Yes,-,-,-,80,10,Irregular
+351,-,-,No,-,-,-,80,10,Irregular
+353,9909,24.9,Yes,-,-,-,80,10,Irregular
+354,-,-,No,-,-,-,80,10,1 time/day
+355,105,19.0,Yes,-,-,-,80,10,Irregular
+356,9935,23.7,Yes,-,-,-,80,10,Irregular
+358,100,19.1,Yes,-,-,-,80,10,Irregular
+359,-,-,No,-,-,-,80,10,Irregular
+366,1,-,No,-,-,-,80,10,1 time/day
+367,-,-,No,-,-,-,80,10,Irregular
+368,-,-,No,-,-,-,80,10,Irregular
+369,24,-,Yes,-,-,-,80,10,Irregular
+370,51,20.9,Yes,-,-,-,80,10,Irregular
+376,-,-,No,-,-,-,80,10,1 time/day
+379,-,-,No,-,-,-,80,10,Irregular
+382,9923,-,No,-,-,-,80,10,Irregular
+383,124,18.8,Yes,-,-,-,80,10,Irregular
+386,9905,17.4,Yes,-,-,-,80,10,Irregular
+389,9966,-,No,-,-,-,80,10,Irregular
+390,74,18.1,Yes,-,-,-,80,10,Irregular
+394,-,-,No,-,-,-,80,10,Irregular
+402,7,27.8,Yes,-,-,-,80,10,Irregular
+437,128,-,No,-,-,-,80,10,Irregular
+443,23,20.4,Yes,-,-,-,80,10,Irregular
+447,46,31.2,Yes,-,-,-,80,10,Irregular
+454,-,-,No,-,-,-,80,10,Irregular
+457,94,-,Yes,-,-,-,80,10,Irregular
+468,33,19.1,Yes,-,-,-,80,10,Irregular
+479,42,20.6,Yes,-,-,-,80,10,Irregular
+484,969,-,No,-,-,-,80,10,1 time/day
+486,101,-,No,-,-,-,80,10,1 time/day
+487,35,23.1,Yes,-,-,-,80,10,Irregular
+488,967,-,No,-,-,-,80,10,Irregular
+493,18,22.4,Yes,-,-,-,80,10,Irregular
+497,25,20.8,Yes,-,-,-,80,10,Irregular
+503,14,-,Yes,-,-,-,80,10,Irregular
+504,4,16.4,Yes,-,-,-,80,10,Irregular
+511,97,11.2,Yes,-,-,-,80,10,Irregular
+516,115,22.7,Yes,-,-,-,80,10,Irregular
+519,90,28.5,Yes,-,-,-,80,10,Irregular
+523,126,24.4,Yes,-,-,-,80,10,Irregular
+524,113,21.0,Yes,-,-,-,80,10,Irregular
+527,89,-,No,-,-,-,80,10,1 time/day
+531,62,12.3,Yes,-,-,-,80,10,Irregular
+532,68,20.9,Yes,-,-,-,80,10,Irregular
+535,92,23.5,Yes,-,-,-,80,10,Irregular
+539,117,28.5,Yes,-,-,-,80,10,Irregular
+544,70,-,No,-,-,-,80,10,1 time/day
+550,-,-,No,-,-,-,80,10,1 time/day
+552,-,-,No,-,-,-,80,10,Irregular
+557,9902,13.1,Yes,-,-,-,80,10,Irregular
+581,54,-,No,-,-,-,80,10,Irregular
+584,39,16.9,Yes,-,-,-,80,10,Irregular
+585,104,-,No,-,-,-,80,10,1 time/day
+586,119,-,No,-,-,-,80,10,Irregular
+590,9941,-,No,-,-,-,80,10,1 time/day
+593,41,-,No,-,-,-,80,10,1 time/day
+595,79,-,No,-,-,-,80,10,Irregular
+598,66,-,No,-,-,-,80,10,Irregular
+599,9925,-,Yes,-,-,-,80,10,1 time/day
+600,9924,-,Yes,-,-,-,80,10,Irregular
+603,9961,-,No,-,-,-,80,10,1 time/day
+604,71,-,No,-,-,-,80,10,Irregular
+610,8,-,No,-,-,-,80,10,1 time/day
+660,-,-,No,-,-,-,80,10,Irregular
+661,-,-,No,-,-,-,80,10,2 times/day
+752,-,-,No,-,-,-,80,10,1 time/day
+794,9,-,No,-,-,-,80,10,1 time/day
+806,108,-,No,-,-,-,80,10,Irregular
+836,59,-,No,-,-,-,80,10,Irregular
+914,-,-,No,-,-,-,80,10,1 time/day
+915,9949,-,No,-,-,-,80,10,Irregular
+917,-,-,No,-,-,-,80,10,Irregular
+918,-,-,No,-,-,-,80,10,1 time/day
+921,9933,-,No,-,-,-,80,10,Irregular
+946,-,-,No,-,-,-,80,10,Irregular
+948,32,-,Yes,-,-,-,80,10,Irregular
+952,9910,29.3,Yes,-,-,-,80,10,Irregular
+955,30,-,Yes,-,-,-,80,10,1 time/day
+963,36,-,No,-,-,-,80,10,1 time/day
+968,116,15.8,Yes,-,-,-,80,10,Irregular
+969,-,-,No,-,-,-,80,10,1 time/day
+971,48,20.3,Yes,-,-,-,80,10,Irregular
+973,47,-,Yes,-,-,-,80,10,1 time/day
