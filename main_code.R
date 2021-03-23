@@ -1,6 +1,9 @@
-##### Setting Project Woking Directory #####
+##### Setting Up Environment #####
 
 setwd("~/TC-D-Willoughby")
+
+library(stringr)
+library(ggplot2)
 
 ##### All Possible Headings of Data #####
 
@@ -221,21 +224,47 @@ for ( i in seq_along(file_list_no_txt)) {
 # Name elements of data list based on file
 names(df_list) <- file_list_no_txt
 
+# Make all dates into standardised format 
+##### NEEDS DOING
+merged$`Birth date` <- as.Date(merged$`Birth date`, format = "%d/%m/%Y")
+
 ##### Assigning the column names to the data sheets #####
 
 colnames(df_list[["101_all_animals"]]) <- sorted_headings[c(5,101,4,3,106,12,103,126,140)]
 colnames(df_list[["102_all_milkcows"]]) <- sorted_headings[c(4,167,3,106,12,103,86,166)]
 colnames(df_list[["3a02_total_milk_prod_20days"]]) <- sorted_headings[c(79,4,85,78,80)]
-colnames(df_list[["3b02_total_milk_last_20days"]]) <- sorted_headings[c()]
 
 colnames(df_list[["3a08_lactation_milk_data"]]) <- sorted_headings[c(3,4,107,111,114,109,110,112,115,108)]
 
 colnames(df_list[["3b02_total_milk_last_20days"]]) <- sorted_headings[c(79,4,82,83,84,81,85,80,78)]
 
 
-#####
+##### Genetics #####
+
+setwd("~/TC-D-Willoughby")
+
+# Merge all the genetic info on the cows
+merged_genetics <- merge(df_list[["101_all_animals"]], df_list[["102_all_milkcows"]], by = c('I&R number','Animal number',
+                                                                                             'Animal name','Birth date',
+                                                                                             'Group number'))
 
 
+# Make date into standardised format 
+merged$`Birth date` <- as.Date(merged$`Birth date`, format = "%d/%m/%Y")
+
+# Investigating Sires
+cow_dads <- as.data.frame(table(merged$`Sire I&R number`))
+colnames(cow_dads) <- c("Sire I&R number", "Number of Offspring")
+
+# Order dataframe of sires
+attach(cow_dads)
+cow_dads <- cow_dads[order(cow_dads$`Number of Offspring`, decreasing = T ),]
+detach(cow_dads)
+
+# Plot how many offspring each sire sired
+ggplot(cow_dads, aes(x = reorder(`Sire I&R number`, -`Number of Offspring`), y = `Number of Offspring`)) +
+  geom_bar(stat = "identity") +
+  theme(axis.text.x=element_text(angle=60, hjust=1))
 
 
 
