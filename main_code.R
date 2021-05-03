@@ -266,5 +266,14 @@ ggplot(cow_dads, aes(x = reorder(`Sire I&R number`, -`Number of Offspring`), y =
   geom_bar(stat = "identity") +
   theme(axis.text.x=element_text(angle=60, hjust=1))
 
+# Dams and calves
+
+for ( i in 1:nrow(merged) ) {
+  if ( (merged$`I&R number`[i] %in% merged$`Dam I&R number`) == T ) {
+    
+    print(paste(  ))
+  }
+}
+
 
 
