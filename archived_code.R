@@ -210,3 +210,7 @@ colnames_5a07 <- c("C. Calc Alg.", "C. Feed Curve", "Animal number", "Current la
                    "Expected calving", "C. Curve startdate", "C. Allowance feed A", "C. Curve A", "C. Allowance feed B",
                    "C. Curve B")
 
+
+
+ggplot(merged, aes(x = `Sire I&R number`)) +
+  geom_bar(stat = "count")
